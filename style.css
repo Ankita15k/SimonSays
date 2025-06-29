@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-image: url(img1.jpg);
+    background-size: cover;
+}
+
+.btn {
+    height: 12rem;
+    width: 12rem;
+    border-radius: 20%;
+    margin: 1.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.yellow {
+    background-color: rgb(255, 220, 19);
+    border: 1px solid rgb(248, 235, 57);
+    box-shadow: 5px 5px 5px #3f3c3c;
+}
+
+.red {
+    background-color: rgb(228, 18, 98);
+    border: 1px solid rgb(245, 17, 105);
+    box-shadow: 5px 5px 5px#3f3c3c;
+}
+
+.green {
+    background-color: #0c9444;
+    border: 1px solid #0ab451;
+
+    box-shadow: 5px 5px 5px#3f3c3c;
+}
+
+.blue {
+    background-color: #63aac0;
+    border: 1px solid #6ac5e0;
+    box-shadow: 5px 5px 5px#3f3c3c;
+}
+
+.flash {
+    background-color: rgba(255, 255, 255, 0.336);
+}
+
+.userFlash {
+    background-color: rgba(153, 255, 153, 0.932);
+}
